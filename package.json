@@ -1,0 +1,16 @@
+{
+  "name": "me_a",
+  "version": "1.0.0",
+  "description": "- 第三方模块来做支持\r   - mongodb\r   - mongoose\r   - xxxxx",
+  "main": "server.js",
+  "dependencies": {
+    "mongodb": "^3.1.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
